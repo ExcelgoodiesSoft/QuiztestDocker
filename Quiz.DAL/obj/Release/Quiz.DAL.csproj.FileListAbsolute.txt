@@ -1,0 +1,11 @@
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\bin\Release\Quiz.DAL.dll
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\bin\Release\Quiz.DAL.pdb
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\bin\Release\Quiz.DO.dll
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\bin\Release\Quiz.Helper.dll
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\bin\Release\Quiz.DO.pdb
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\bin\Release\Quiz.Helper.pdb
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\obj\Release\Quiz.DAL.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\obj\Release\Quiz.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\obj\Release\Quiz.DAL.csproj.CopyComplete
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\obj\Release\Quiz.DAL.dll
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.DAL\obj\Release\Quiz.DAL.pdb

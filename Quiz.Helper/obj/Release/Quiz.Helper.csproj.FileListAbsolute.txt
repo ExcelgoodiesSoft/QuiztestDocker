@@ -1,0 +1,6 @@
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.Helper\bin\Release\Quiz.Helper.dll
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.Helper\bin\Release\Quiz.Helper.pdb
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.Helper\obj\Release\Quiz.Helper.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.Helper\obj\Release\Quiz.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.Helper\obj\Release\Quiz.Helper.dll
+C:\Users\Ganesh\Downloads\EGQuiz-main - Copy\EGQuiz-main\Quiz.Helper\obj\Release\Quiz.Helper.pdb
