@@ -1,8 +1,6 @@
 name: Auto Tag my Application
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch 
 jobs:
   Patch:
     runs-on: ubuntu-latest
@@ -20,13 +18,13 @@ jobs:
 
     - name: echo new tag
       run: |
-        echo "The next tag version will be: ${{ steps.taggerDryRun.outputs.new_tag }}"
+        echo "The next tag version will be: v${{ steps.taggerDryRun.outputs.new_tag }}"
     - name: echo tag
       run: |
-        echo "The current tag is: ${{ steps.taggerDryRun.outputs.tag }}"
+        echo "The current tag is: v${{ steps.taggerDryRun.outputs.tag }}"
     - name: echo part
       run: |
-        echo "The version increment was: ${{ steps.taggerDryRun.outputs.part }}"
+        echo "The version increment was: v${{ steps.taggerDryRun.outputs.part }}"
 
 
     # DO MY BUILD HERE
